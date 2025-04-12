@@ -1,0 +1,7 @@
+C:\Users\ajitl\OneDrive\Desktop\ICT272 Tutorials\Tutorial4Ex3\Tutorial4Ex3\obj\Debug\Tutorial4Ex3.csproj.AssemblyReference.cache
+C:\Users\ajitl\OneDrive\Desktop\ICT272 Tutorials\Tutorial4Ex3\Tutorial4Ex3\obj\Debug\Tutorial4Ex3.csproj.CoreCompileInputs.cache
+C:\Users\ajitl\OneDrive\Desktop\ICT272 Tutorials\Tutorial4Ex3\Tutorial4Ex3\bin\Debug\Tutorial4Ex3.exe.config
+C:\Users\ajitl\OneDrive\Desktop\ICT272 Tutorials\Tutorial4Ex3\Tutorial4Ex3\bin\Debug\Tutorial4Ex3.exe
+C:\Users\ajitl\OneDrive\Desktop\ICT272 Tutorials\Tutorial4Ex3\Tutorial4Ex3\bin\Debug\Tutorial4Ex3.pdb
+C:\Users\ajitl\OneDrive\Desktop\ICT272 Tutorials\Tutorial4Ex3\Tutorial4Ex3\obj\Debug\Tutorial4Ex3.exe
+C:\Users\ajitl\OneDrive\Desktop\ICT272 Tutorials\Tutorial4Ex3\Tutorial4Ex3\obj\Debug\Tutorial4Ex3.pdb
